@@ -1,4 +1,4 @@
-# Vue Django SPA (API Integration)
+# Vue Django SPA Integration
 
 ## 📌 About the Project
 
@@ -18,12 +18,12 @@ This project demonstrates the integration of **Vue.js** and **Django** using **D
 
 1. **Clone the Repository:**
 ```sh
-git clone https://github.com/sajad-18/vue-drf.git
+git clone https://github.com/sajad-18/vue-drf-integration.git
 ```
 
 2. **Navigate to the Project Directory:**
 ```sh
-cd vue-drf
+cd vue-drf-integration
 ```
 
 3. **Install Backend Dependencies:**
@@ -94,7 +94,7 @@ This project is licensed under the MIT License. Feel free to use and modify it.
 ### 🚀 نصب و راه‌اندازی:
 ۱. کلون کردن پروژه:
 ```sh
-git clone https://github.com/sajad-18/vue-drf.git
+git clone https://github.com/sajad-18/vue-drf-integration.git
 ```
 ۲. نصب وابستگی‌های بک‌اند:
 ```sh
